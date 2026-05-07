@@ -31,7 +31,7 @@ public class AssignmentSixPracticePage {
 	
 	driver.switchTo().alert().accept();
 	
-	
+	System.out.println("Creating branch from GitDemo and psuhing this to development branch");
 	
 
 	}
