@@ -33,7 +33,7 @@ public class AssignmentSixPracticePage {
 	
 	System.out.println("Creating branch from GitDemo and psuhing this to development branch");
 	System.out.println("updating the code from git practice and getting the latest code from dev and pushing this code");
-
+	System.out.println("new branch from GitDemo and psuhing this to development branch");
 	}
 
 }
