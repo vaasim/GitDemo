@@ -21,7 +21,7 @@ public class ActionclassPractice {
 		sendKeys("samsung").doubleClick().build().perform();
 		a.moveToElement(driver.findElement(By.xpath("//a[@id='nav-link-accountList']"))).contextClick().build().perform();
 		a.moveToElement(driver.findElement(By.xpath("//a[@id='nav-link-accountList']"))).build().perform();
-		
+		System.out.println("Adding line to test the push code");
 
 	}
 
